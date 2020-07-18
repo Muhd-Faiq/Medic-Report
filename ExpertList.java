@@ -1,8 +1,3 @@
-//Name: MUhammad Faiq Bin Roslan
-//Matric Num: A18CS0134
-//Section: 6
-//Lecturer: Dr Nor Bahiah Ahmad
-
 enum ExpertList
 {
 	EXPERT1("USA","ALLERGISTS"),
