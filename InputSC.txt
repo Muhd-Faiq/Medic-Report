@@ -1,0 +1,17 @@
+Expert1         M            37
+Expert2         M            45
+Expert3         F            35
+Expert1         M            48
+Expert3         F            30
+Expert4         M            36
+Expert2         M            30
+Expert1         F            30
+Expert1         F            28
+Expert4         M            32
+Expert3         M            45
+Expert1         F            36
+Expert3         F            33
+Expert4         M            36
+Expert2         M            30
+Expert3         M            28
+Expert1         M            40
